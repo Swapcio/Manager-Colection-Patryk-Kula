@@ -1,0 +1,1 @@
+C:\Users\Patryk\Desktop\CollectionManager-master\CollectionManager-master\CollectionManager.csproj;x64
